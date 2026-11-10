@@ -13,5 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [teknik reparasi pc dan monitor](ebook/5_teknik reparasi pc dan monitor.pdf) – Widodo Budiharto (2007)
 10. [Bahasa pemrograman pascal](ebook/Bahasa pemrograman pascal_6.pdf) – Eko Purwanto (2011)
 11. [Peran teknologi dalam pembangunan](ebook/Peran teknologi dalam pembangunan_682ggse72.pdf) – Uruqul N.D. (2015)
+12. [Rangkuman UD](ebook/Rangkuman UDC_1.pdf) – Rahayu Pupsitaningsih (2026)
 ---
 *Powered by GitHub Pages*
